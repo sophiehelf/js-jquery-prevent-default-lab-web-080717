@@ -1,5 +1,4 @@
 $(document).ready(function(){
-
   submitForm();
 });
 
@@ -10,5 +9,3 @@ function submitForm(){
     event.preventDefault();
   });
 }
-});
-
